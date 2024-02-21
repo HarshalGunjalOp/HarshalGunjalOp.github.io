@@ -1,4 +1,4 @@
-# harshalgunjal69.github.io
+# HarshalGunjalOp.github.io
 <br><br>
 This is the source-code of my <b>Protfolio Website</b>, made by using <i><b>HTML, CSS and Javascript</b></i>.
 <br><br>
